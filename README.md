@@ -1,12 +1,17 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
+![0 D-CJaPlP9oJyF2_7](https://github.com/ShivankK26/30-Days-Of-Solidity/assets/115289871/935837e8-1b40-4191-90f4-f580b91ad040)
 
 
 
 
 
 
-In this GitHub Repository, I've created a wide variety of Smart Contracts in order to Educate and Empower folks about Web3 Development. All these Contracts range from Basic to extremely Advanced Level. I have also added Smart Contracts like creating your own ERC20 Token, Creating your own Smart Wallet, NFTs Contracts, and much more. So, just read and enjoy them!! 
+In this GitHub Repository, I've have curated a total of 30 Questions of Solidity for a 30 Day Solidity Challenge. This Repository consists of a 30 Day Challenge in which anyone can practice Solidity for 30 Days and improve their Smart Contract Development as well as Problem Solving Skills. The answer to any particular question has been provided within the respective folder of that day, so do check that out! 
+
+Make sure to give a ⭐ to this Repository, if you find it helpful!
+
+Do Enjoy ;)
 
 
 Use the `README.md` to get started.
@@ -31,12 +36,17 @@ The Tech Stacks used are:
 To get started, download the entire source code and then follow the instructions. For testing and deploying these Contracts well be using [Remix IDE](https://remix.ethereum.org/)
 
   
+* Solidity Documentation For Help 
+
+  ```sh
+      https://soliditylang.org/
+  ```
+
 * Learn more about writing Smart Contracts 
 
   ```sh
       https://shivankkapur.hashnode.dev/writing-your-first-smart-contract-using-solidity
   ```
-
 
 
 <!-- CONTRIBUTING -->
