@@ -1,6 +1,6 @@
 pragma solidity ^ 0.8;
 
-contract Function{
+contract day2 {
   uint8 a = 10;
   uint8 b = 20;
 
