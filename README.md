@@ -9,7 +9,7 @@
 
 In this GitHub Repository, I've have curated a total of 30 Questions of Solidity for a 30 Day Solidity Challenge. This Repository consists of a 30 Day Challenge in which anyone can practice Solidity for 30 Days and improve their Smart Contract Development as well as Problem Solving Skills. The answer to any particular question has been provided within the respective folder of that day, so do check that out! 
 
-Make sure to give a ⭐ to this Repository, if you find it helpful!
+Make sure to give a ⭐ to this Repository if you find it helpful!
 
 Do Enjoy ;)
 
